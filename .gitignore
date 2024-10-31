@@ -1,4 +1,5 @@
 Data/*
 temp*
 temp/*
+.env
 .ipynb_checkpoints/*
